@@ -1,0 +1,27 @@
+# 🐍 Minha Jornada Python
+
+![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-green)
+![Linguagem](https://img.shields.io/badge/Language-Python-blue)
+
+Este repositório foi criado para documentar minha trajetória no aprendizado de Python. Aqui, monitoro minha evolução, guardo exercícios de lógica e armazeno meus projetos autorais.
+
+## 🚀 Objetivo
+O foco principal é dominar a base da programação para automação de tarefas, saindo do zero até o desenvolvimento de aplicações completas.
+
+---
+
+## 📂 Estrutura do Repositório
+
+* **`fundamentos/`**: Variáveis, tipos de dados e operações matemáticas.
+* **`estruturas-condicionais/`**: Exercícios com `if`, `elif`, `else` e operadores lógicos (Ex: Sistema de Empréstimo).
+* **`repeticoes/`**: Loops `for` e `while`.
+* **`projetos/`**: Mini-projetos práticos e desafios do curso.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+* **Python 3.x**
+* **VS Code**
+* **Pycharm**
+* **Linux Terminal** (Estudando comandos para ambiente de dev)
+* **Git & GitHub**
