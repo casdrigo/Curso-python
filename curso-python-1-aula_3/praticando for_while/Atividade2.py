@@ -6,11 +6,10 @@
 #
 # while contador < 10:
 #     print("Processando dados...")
-# Aqui é bem simples, está inifinito pois o contador não sobe, para resolver é só aplicar um contador +1 ao final do loop
-
 
 contador = 0
 
 while contador < 10:
     print("Processando dados...")
-    contador +=1                    #atualiza o valor fazendo não entrar em loop infinito
+
+    contador += 1                       # Atualiza o contador para evitar o loop infinito

@@ -6,8 +6,8 @@ nome de cada projeto, mas percebeu que alguns itens podem estar ausentes, aparec
 
 projetos = ["website", "jogo", "análise de dados", None, "aplicativo móvel"]
 
-for projeto in projetos:
-    if projeto is None:
-        print('Projeto ausente.')
+for i in projetos:
+    if i is None:
+        print('Projeto ausente')
     else:
-        print(projeto)
+        print(i)

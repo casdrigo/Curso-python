@@ -11,9 +11,6 @@ Compartilhe sua opinião e resolução no nosso fórum!
 
 clientes = ["João", "Maria", "Carlos", "Ana", "Beatriz"]
 
-for cliente in clientes:
-    print(cliente)
+for cl in clientes:
+    print(cl)
 
-
-
-# me pareceu ser o mais correto, pois como só quer passar uma vez o nome de cada um e não depende de algo ser verdadeiro.
